@@ -1,2 +1,2 @@
 Welcome to Git Project
-This is the master branch update.
+This is the final merged version.
