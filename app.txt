@@ -1,2 +1,3 @@
 Welcome to Git Project
 This is the final merged version.
+Feature update added
